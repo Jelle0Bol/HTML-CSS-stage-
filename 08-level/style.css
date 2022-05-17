@@ -1,0 +1,63 @@
+.groep_1 {
+
+    background-color:rgba(228, 228, 228, 0.734);
+    padding: 10px;
+    border: 2px solid #dddddd;
+    display: grid
+}
+
+.oranje_1 {
+
+    background-color:rgb(255, 141, 88);
+    padding: 10px;
+    border: 2px solid #6d6d6d;
+    table-layout: fixed;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.paars_1 {
+
+    background-color:rgba(250, 119, 233, 0.668);
+    padding: 10px;
+    border: 2px solid #6d6d6d;
+    table-layout: fixed;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.blauw_1 {
+
+    background-color:rgba(99, 206, 255, 0.668);
+    padding: 10px;
+    border: 2px solid #6d6d6d;
+    font-family: 'Courier New', Courier, monospace;
+    table-layout: fixed;
+}
+
+.geel_1 {
+
+    background-color:rgba(255, 242, 59, 0.668);
+    padding: 10px;
+    border: 2px solid #6d6d6d;
+    font-family: 'Courier New', Courier, monospace;
+    table-layout: fixed;
+}
+
+.blauw_1:hover {
+    background-color: rgb(1, 99, 218);
+    cursor: pointer;
+  }
+
+.geel_1:hover {
+    background-color: rgb(113, 145, 0);
+    cursor: pointer;
+  }  
+
+.paars_1:hover {
+    background-color: rgb(109, 1, 111);
+    cursor: pointer;
+  } 
+
+.oranje_1:hover {
+    background-color: rgb(145, 85, 0);
+    cursor: pointer;
+  } 

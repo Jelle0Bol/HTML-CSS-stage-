@@ -1,0 +1,25 @@
+article {
+    color:rgb(0, 11, 223);
+    background-color: rgb(255, 255, 255);
+  }
+
+header {
+    color:rgb(246, 0, 0);
+    border-bottom: 1px solid black;
+  }
+body {
+    background-color: rgb(177, 231, 188);
+  }
+
+h3 {
+  font-size: 40px;
+  }
+
+nav {
+  text-align:center;
+}
+
+footer {
+  text-align:center;
+  background-color: rgb(232, 232, 232);
+}

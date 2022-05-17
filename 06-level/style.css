@@ -1,0 +1,73 @@
+#myHeader {
+    background-color: lightblue;
+    color: black;
+    padding: 40px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace
+  }
+
+
+#email1 {
+    border: 2px solid gray;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+#submit1 {
+    border: 2px solid gray;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+article {
+    text-align: center;
+    
+}
+
+#email2 {
+    border: 2px solid gray;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+#email3 {
+    border: 2px solid gray;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+#email4 {
+    border: 2px solid gray;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+#vehicle1 {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+
+form {
+    text-align: center;
+}
+
+#w3review {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+    border-color: crimson;
+    box-shadow: 0 0 10px crimson;
+    border-width: 5px;
+}
+
+#w3review:focus {
+    outline: none !important;
+    border-color: green;
+    box-shadow: 0 0 10px green;
+    border-width: 5px;
+}
